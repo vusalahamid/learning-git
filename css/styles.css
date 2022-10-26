@@ -11,7 +11,7 @@
     text-align:center;
 }
 .mdl_custom_grid .mdl-cell{
-    background: #fff;
+    background: red;
 }
 .demo-card-square.mdl-card {
     width: 100%;
