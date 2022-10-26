@@ -1,0 +1,10 @@
+/* responsive */
+@media (max-width: 768px) {
+    .side-bar {
+      display: none;
+    }
+
+  .svg-class{
+    height: 20px;
+    width: 90px;
+  }
